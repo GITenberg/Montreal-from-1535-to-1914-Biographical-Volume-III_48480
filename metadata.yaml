@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Montreal from 1535 to 1914
 
   Biographical Volume III'
